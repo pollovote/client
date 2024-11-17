@@ -1,21 +1,54 @@
-MIT License
+Business Source License 1.1
 
-Copyright (c) 2024 pollovote
+Licensor: Pollo Vote
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Software: Pollo Client
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+Change Date: 2024-11-18
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+Alternative License: MIT
+
+Purpose: Non-Commercial Use
+
+---
+
+1. License Grant
+
+Subject to the terms of this License, Licensor hereby grants you a non-exclusive, worldwide, non-transferable, and royalty-free license to use, modify, and distribute the Software solely for non-commercial purposes.
+
+2. Non-Commercial Use
+
+"Non-commercial use" means any use of the Software where you, as an individual or organization, do not directly or indirectly generate revenue, charge fees, sell products or services, or otherwise pursue commercial advantage or monetary gain through use of the Software.
+
+3. Change Date
+
+The Software is provided under this License until the Change Date. On the Change Date, the Software will automatically transition to the Alternative License specified above.
+
+4. Alternative License
+
+After the Change Date, the Software will be made available under the terms of the Alternative License, ensuring continued community use under open-source terms.
+
+5. Restrictions
+
+You may not:
+   - Use the Software for commercial purposes.
+   - Remove or alter any proprietary notices or markings included in the Software.
+   - Bypass, disable, or circumvent any limitations or restrictions applied to the Software by the Licensor.
+
+6. Disclaimer of Warranty
+
+The Software is provided "as is." The Licensor disclaims all warranties, express or implied, including, without limitation, the implied warranties of merchantability, fitness for a particular purpose, and non-infringement.
+
+7. Limitation of Liability
+
+In no event shall the Licensor be liable for any damages arising from the use of the Software, including direct, indirect, incidental, special, exemplary, or consequential damages.
+
+8. Termination
+
+This License automatically terminates if you violate any of its terms. Upon termination, you must cease all use of the Software and destroy all copies in your possession.
+
+9. Miscellaneous
+
+This License constitutes the entire agreement between you and the Licensor concerning the Software. It is governed by the laws of applicable jurisdiction without regard to its conflict of laws principles.
+
+For questions regarding this License, please contact @pollovote.
