@@ -1,0 +1,86 @@
+@use 'themes' as *;
+
+:root {
+  background-color: var(--background-color);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-weight: 400;
+  line-height: 1.5;
+  text-rendering: optimizelegibility;
+  color-scheme: light dark;
+  font-synthesis: none;
+}
+
+.lang-en {
+  * {
+    font-family: "Space Grotesk", sans-serif;
+  }
+}
+
+.lang-ru {
+  * {
+    font-family: Manrope, sans-serif;
+  }
+}
+
+
+// fonts load
+
+// Space Grotesk
+@font-face {
+  font-family: 'Space Grotesk';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/SpaceGrotesk/SpaceGrotesk-Regular.woff2') format('woff2'),
+  url('../fonts/SpaceGrotesk/SpaceGrotesk-Regular.woff') format('woff');
+  font-display: swap;
+  ascent-override: 90%;
+}
+
+@font-face {
+  font-family: 'Space Grotesk';
+  font-style: normal;
+  font-weight: 500;
+  src: url('../fonts/SpaceGrotesk/SpaceGrotesk-Medium.woff2') format('woff2'),
+  url('../fonts/SpaceGrotesk/SpaceGrotesk-Medium.woff') format('woff');
+  font-display: swap;
+  ascent-override: 90%;
+}
+
+@font-face {
+  font-family: 'Space Grotesk';
+  font-style: normal;
+  font-weight: 700;
+  src: url('../fonts/SpaceGrotesk/SpaceGrotesk-Bold.woff2') format('woff2'),
+  url('../fonts/SpaceGrotesk/SpaceGrotesk-Bold.woff') format('woff');
+  font-display: swap;
+  ascent-override: 90%;
+}
+
+// Manrope
+@font-face {
+  font-family: Manrope;
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/Manrope/Manrope-Regular.woff2') format('woff2'),
+  url('../fonts/Manrope/Manrope-Regular.woff') format('woff');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: Manrope;
+  font-style: normal;
+  font-weight: 500;
+  src: url('../fonts/Manrope/Manrope-Medium.woff2') format('woff2'),
+  url('../fonts/Manrope/Manrope-Medium.woff') format('woff');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: Manrope;
+  font-style: normal;
+  font-weight: 700;
+  src: url('../fonts/Manrope/Manrope-Bold.woff2') format('woff2'),
+  url('../fonts/Manrope/Manrope-Bold.woff') format('woff');
+  font-display: swap;
+}
